@@ -1,0 +1,101 @@
+Date,Description,Amount,day_of_week,day_name,is_weekend,month,month_name,day_of_month,transaction_type,amount_abs,predicted_category,confidence
+2024-10-01,mcdonald's,-91.81,1,Tuesday,False,10,October,1,spending,91.81,dining,0.9618004320062186
+2024-10-01,salary deposit,3000.0,1,Tuesday,False,10,October,1,income,3000.0,,
+2024-10-05,starbucks,-7.98,5,Saturday,True,10,October,5,spending,7.98,dining,0.9597347770743054
+2024-10-05,amazon.com,-25.72,5,Saturday,True,10,October,5,spending,25.72,shopping,0.9405759849714854
+2024-10-06,netflix subscription,-94.53,6,Sunday,True,10,October,6,spending,94.53,entertainment,0.9581406775319332
+2024-10-06,gym membership,-81.09,6,Sunday,True,10,October,6,spending,81.09,fitness,0.9699392166899641
+2024-10-06,electric bill,-5.11,6,Sunday,True,10,October,6,spending,5.11,utilities,0.9660417176695129
+2024-10-07,walmart supercenter,-81.09,0,Monday,False,10,October,7,spending,81.09,groceries,0.5221616897179283
+2024-10-08,starbucks,-60.46,1,Tuesday,False,10,October,8,spending,60.46,dining,0.9597347770743054
+2024-10-09,uber ride,-11.74,2,Wednesday,False,10,October,9,spending,11.74,transport,0.9442234637900174
+2024-10-09,starbucks,-103.64,2,Wednesday,False,10,October,9,spending,103.64,dining,0.9597347770743054
+2024-10-09,uber ride,-14.43,2,Wednesday,False,10,October,9,spending,14.43,transport,0.9442234637900174
+2024-10-10,amazon.com,-39.95,3,Thursday,False,10,October,10,spending,39.95,shopping,0.9405759849714854
+2024-10-10,shell gas station,-60.89,3,Thursday,False,10,October,10,spending,60.89,transport,0.8799778388362964
+2024-10-10,gym membership,-19.16,3,Thursday,False,10,October,10,spending,19.16,fitness,0.9699392166899641
+2024-10-11,mcdonald's,-9.99,4,Friday,False,10,October,11,spending,9.99,dining,0.9618004320062186
+2024-10-12,amazon.com,-31.42,5,Saturday,True,10,October,12,spending,31.42,shopping,0.9405759849714854
+2024-10-12,amazon.com,-50.2,5,Saturday,True,10,October,12,spending,50.2,shopping,0.9405759849714854
+2024-10-12,electric bill,-35.15,5,Saturday,True,10,October,12,spending,35.15,utilities,0.9660417176695129
+2024-10-13,shell gas station,-117.39,6,Sunday,True,10,October,13,spending,117.39,transport,0.8799778388362964
+2024-10-14,amazon.com,-91.7,0,Monday,False,10,October,14,spending,91.7,shopping,0.9405759849714854
+2024-10-14,mcdonald's,-87.71,0,Monday,False,10,October,14,spending,87.71,dining,0.9618004320062186
+2024-10-14,uber ride,-144.37,0,Monday,False,10,October,14,spending,144.37,transport,0.9442234637900174
+2024-10-15,shell gas station,-83.26,1,Tuesday,False,10,October,15,spending,83.26,transport,0.8799778388362964
+2024-10-15,mcdonald's,-56.73,1,Tuesday,False,10,October,15,spending,56.73,dining,0.9618004320062186
+2024-10-17,uber ride,-47.96,3,Thursday,False,10,October,17,spending,47.96,transport,0.9442234637900174
+2024-10-20,walmart supercenter,-33.81,6,Sunday,True,10,October,20,spending,33.81,groceries,0.5221616897179283
+2024-10-22,starbucks,-116.83,1,Tuesday,False,10,October,22,spending,116.83,dining,0.9597347770743054
+2024-10-22,walmart supercenter,-108.14,1,Tuesday,False,10,October,22,spending,108.14,groceries,0.5221616897179283
+2024-10-24,uber ride,-137.67,3,Thursday,False,10,October,24,spending,137.67,transport,0.9442234637900174
+2024-10-25,shell gas station,-18.83,4,Friday,False,10,October,25,spending,18.83,transport,0.8799778388362964
+2024-10-25,target,-50.09,4,Friday,False,10,October,25,spending,50.09,groceries,0.5765638881662148
+2024-10-26,starbucks,-90.74,5,Saturday,True,10,October,26,spending,90.74,dining,0.9597347770743054
+2024-10-28,starbucks,-22.34,0,Monday,False,10,October,28,spending,22.34,dining,0.9597347770743054
+2024-10-29,walmart supercenter,-109.65,1,Tuesday,False,10,October,29,spending,109.65,groceries,0.5221616897179283
+2024-10-29,target,-116.79,1,Tuesday,False,10,October,29,spending,116.79,groceries,0.5765638881662148
+2024-10-30,uber ride,-108.05,2,Wednesday,False,10,October,30,spending,108.05,transport,0.9442234637900174
+2024-11-01,starbucks,-9.56,4,Friday,False,11,November,1,spending,9.56,dining,0.9597347770743054
+2024-11-01,salary deposit,3000.0,4,Friday,False,11,November,1,income,3000.0,,
+2024-11-02,amazon.com,-86.67,5,Saturday,True,11,November,2,spending,86.67,shopping,0.9405759849714854
+2024-11-03,netflix subscription,-41.15,6,Sunday,True,11,November,3,spending,41.15,entertainment,0.9581406775319332
+2024-11-04,amazon.com,-141.71,0,Monday,False,11,November,4,spending,141.71,shopping,0.9405759849714854
+2024-11-05,starbucks,-28.38,1,Tuesday,False,11,November,5,spending,28.38,dining,0.9597347770743054
+2024-11-06,uber ride,-20.3,2,Wednesday,False,11,November,6,spending,20.3,transport,0.9442234637900174
+2024-11-06,amazon.com,-134.42,2,Wednesday,False,11,November,6,spending,134.42,shopping,0.9405759849714854
+2024-11-06,gym membership,-22.7,2,Wednesday,False,11,November,6,spending,22.7,fitness,0.9699392166899641
+2024-11-07,walmart supercenter,-44.46,3,Thursday,False,11,November,7,spending,44.46,groceries,0.5221616897179283
+2024-11-08,uber ride,-123.61,4,Friday,False,11,November,8,spending,123.61,transport,0.9442234637900174
+2024-11-09,target,-28.88,5,Saturday,True,11,November,9,spending,28.88,groceries,0.5765638881662148
+2024-11-09,uber ride,-75.3,5,Saturday,True,11,November,9,spending,75.3,transport,0.9442234637900174
+2024-11-10,gym membership,-53.95,6,Sunday,True,11,November,10,spending,53.95,fitness,0.9699392166899641
+2024-11-11,electric bill,-36.72,0,Monday,False,11,November,11,spending,36.72,utilities,0.9660417176695129
+2024-11-11,mcdonald's,-106.94,0,Monday,False,11,November,11,spending,106.94,dining,0.9618004320062186
+2024-11-11,walmart supercenter,-14.41,0,Monday,False,11,November,11,spending,14.41,groceries,0.5221616897179283
+2024-11-14,starbucks,-48.63,3,Thursday,False,11,November,14,spending,48.63,dining,0.9597347770743054
+2024-11-17,shell gas station,-64.6,6,Sunday,True,11,November,17,spending,64.6,transport,0.8799778388362964
+2024-11-19,walmart supercenter,-39.74,1,Tuesday,False,11,November,19,spending,39.74,groceries,0.5221616897179283
+2024-11-21,electric bill,-40.1,3,Thursday,False,11,November,21,spending,40.1,utilities,0.9660417176695129
+2024-11-22,mcdonald's,-39.46,4,Friday,False,11,November,22,spending,39.46,dining,0.9618004320062186
+2024-11-23,mcdonald's,-73.19,5,Saturday,True,11,November,23,spending,73.19,dining,0.9618004320062186
+2024-11-23,shell gas station,-96.86,5,Saturday,True,11,November,23,spending,96.86,transport,0.8799778388362964
+2024-11-24,walmart supercenter,-26.85,6,Sunday,True,11,November,24,spending,26.85,groceries,0.5221616897179283
+2024-11-25,starbucks,-90.68,0,Monday,False,11,November,25,spending,90.68,dining,0.9597347770743054
+2024-11-26,starbucks,-108.12,1,Tuesday,False,11,November,26,spending,108.12,dining,0.9597347770743054
+2024-11-27,amazon.com,-98.55,2,Wednesday,False,11,November,27,spending,98.55,shopping,0.9405759849714854
+2024-11-27,amazon.com,-141.38,2,Wednesday,False,11,November,27,spending,141.38,shopping,0.9405759849714854
+2024-11-28,target,-140.83,3,Thursday,False,11,November,28,spending,140.83,groceries,0.5765638881662148
+2024-11-30,uber ride,-35.32,5,Saturday,True,11,November,30,spending,35.32,transport,0.9442234637900174
+2024-12-01,salary deposit,3000.0,6,Sunday,True,12,December,1,income,3000.0,,
+2024-12-01,gym membership,-42.4,6,Sunday,True,12,December,1,spending,42.4,fitness,0.9699392166899641
+2024-12-02,gym membership,-147.41,0,Monday,False,12,December,2,spending,147.41,fitness,0.9699392166899641
+2024-12-03,walmart supercenter,-40.07,1,Tuesday,False,12,December,3,spending,40.07,groceries,0.5221616897179283
+2024-12-05,netflix subscription,-132.98,3,Thursday,False,12,December,5,spending,132.98,entertainment,0.9581406775319332
+2024-12-05,target,-54.16,3,Thursday,False,12,December,5,spending,54.16,groceries,0.5765638881662148
+2024-12-06,starbucks,-129.17,4,Friday,False,12,December,6,spending,129.17,dining,0.9597347770743054
+2024-12-07,walmart supercenter,-98.09,5,Saturday,True,12,December,7,spending,98.09,groceries,0.5221616897179283
+2024-12-10,amazon.com,-89.2,1,Tuesday,False,12,December,10,spending,89.2,shopping,0.9405759849714854
+2024-12-10,uber ride,-101.21,1,Tuesday,False,12,December,10,spending,101.21,transport,0.9442234637900174
+2024-12-13,electric bill,-70.02,4,Friday,False,12,December,13,spending,70.02,utilities,0.9660417176695129
+2024-12-14,amazon.com,-108.27,5,Saturday,True,12,December,14,spending,108.27,shopping,0.9405759849714854
+2024-12-14,amazon.com,-58.14,5,Saturday,True,12,December,14,spending,58.14,shopping,0.9405759849714854
+2024-12-14,walmart supercenter,-76.61,5,Saturday,True,12,December,14,spending,76.61,groceries,0.5221616897179283
+2024-12-15,starbucks,-100.35,6,Sunday,True,12,December,15,spending,100.35,dining,0.9597347770743054
+2024-12-15,walmart supercenter,-83.67,6,Sunday,True,12,December,15,spending,83.67,groceries,0.5221616897179283
+2024-12-16,electric bill,-43.45,0,Monday,False,12,December,16,spending,43.45,utilities,0.9660417176695129
+2024-12-18,walmart supercenter,-88.65,2,Wednesday,False,12,December,18,spending,88.65,groceries,0.5221616897179283
+2024-12-18,shell gas station,-55.76,2,Wednesday,False,12,December,18,spending,55.76,transport,0.8799778388362964
+2024-12-18,starbucks,-134.35,2,Wednesday,False,12,December,18,spending,134.35,dining,0.9597347770743054
+2024-12-19,netflix subscription,-38.38,3,Thursday,False,12,December,19,spending,38.38,entertainment,0.9581406775319332
+2024-12-20,amazon.com,-8.53,4,Friday,False,12,December,20,spending,8.53,shopping,0.9405759849714854
+2024-12-21,walmart supercenter,-149.21,5,Saturday,True,12,December,21,spending,149.21,groceries,0.5221616897179283
+2024-12-22,netflix subscription,-133.11,6,Sunday,True,12,December,22,spending,133.11,entertainment,0.9581406775319332
+2024-12-23,walmart supercenter,-85.15,0,Monday,False,12,December,23,spending,85.15,groceries,0.5221616897179283
+2024-12-23,netflix subscription,-139.61,0,Monday,False,12,December,23,spending,139.61,entertainment,0.9581406775319332
+2024-12-24,walmart supercenter,-15.93,1,Tuesday,False,12,December,24,spending,15.93,groceries,0.5221616897179283
+2024-12-25,target,-43.93,2,Wednesday,False,12,December,25,spending,43.93,groceries,0.5765638881662148
+2024-12-26,shell gas station,-85.74,3,Thursday,False,12,December,26,spending,85.74,transport,0.8799778388362964
+2024-12-27,gym membership,-139.85,4,Friday,False,12,December,27,spending,139.85,fitness,0.9699392166899641
+2024-12-27,mcdonald's,-35.29,4,Friday,False,12,December,27,spending,35.29,dining,0.9618004320062186
+2024-12-27,electric bill,-57.0,4,Friday,False,12,December,27,spending,57.0,utilities,0.9660417176695129
